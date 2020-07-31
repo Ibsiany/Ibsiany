@@ -1,4 +1,6 @@
-### Amo programar, amo criar, amo coisas novas. 👩🏻‍💻
+###  Programadora  programando por ai
+Aprendendo programação nas horas vagas e nas horas ocupadas.
+Gosto de programar e fazer piadas sem graça.
 
 <!--
 **Ibsiany/Ibsiany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
