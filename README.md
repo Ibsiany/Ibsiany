@@ -1,4 +1,4 @@
-###  Programadora  programando por ai
+###  Programando por ai
 Aprendendo a transformar  a tecnologia.
 Gosto de  ver filmes, jogar futsal, pensar na vida e fazer piadas sem graça. 👩🏻‍💻
 <!--
