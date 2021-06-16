@@ -1,10 +1,20 @@
 #  Programando por ai
-Aprendendo a transformar  a tecnologia.
-Gosto de  ver filmes, jogar futsal, pensar na vida e fazer piadas sem graça. 👩🏻‍💻
 
 <h1 align="center">
   <img src ="./arte.jpg">
 </h1>
+
+# Aprendendo a transformar  a tecnologia
+### Gosto de:
+🍿 Ver filmes
+
+⚽ Jogar futsal 
+
+💭 Pensar na vida 
+
+🤡 Fazer piadas sem graça
+
+👩🏻‍💻 Codar
 
 <center>
 
@@ -25,18 +35,44 @@ Gosto de  ver filmes, jogar futsal, pensar na vida e fazer piadas sem graça. �
 </center>
 
 
-# Linguagens Utilizadas
+# Tecnologias
 
-<p align="center">
+<center>
+<table align="space-between">
+    <tr>
+  
+<th> Linguages</th>
+<th> Frameworks</th>
+<th> Ferramentas</th>
+ </tr>
+       <tr>
+<td>
     <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</td>
+
+
+
+<td>
     <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</td>
+
+<td>
+    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</td>
+       </tr>  
+</table>
+</center>
+
 
 
 
