@@ -4,6 +4,12 @@
   <img src ="./arte.jpg">
 </h1>
 
+<center>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibsiany/)](https://www.linkedin.com/in/ibsiany/)
+
+</center>
+
 # Aprendendo a transformar  a tecnologia
 ### Gosto de:
 🍿 Ver filmes
@@ -15,13 +21,6 @@
 🤡 Fazer piadas sem graça
 
 👩🏻‍💻 Codar
-
-<center>
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Ibsiany)](https://github.com/Ibsiany)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibsiany/)](https://www.linkedin.com/in/ibsiany/)
-
-</center>
 
 # Andamento
 
@@ -72,7 +71,6 @@
        </tr>  
 </table>
 </center>
-
 
 
 
