@@ -40,9 +40,9 @@
 <table align="space-between">
     <tr>
   
-<th> Linguages</th>
-<th> Ferramentas</th>
-<th> Software</th>
+<th>Linguages</th>
+<th>Ferramentas</th>
+<th>Softwares</th>
  </tr>
        <tr>
 <td>
