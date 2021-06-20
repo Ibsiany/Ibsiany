@@ -40,7 +40,7 @@
 <table align="space-between">
     <tr>
   
-<th>Linguages</th>
+<th>Linguagens</th>
 <th>Ferramentas</th>
 <th>Softwares</th>
  </tr>
