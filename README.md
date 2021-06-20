@@ -41,8 +41,8 @@
     <tr>
   
 <th> Linguages</th>
-<th> Frameworks</th>
 <th> Ferramentas</th>
+<th> Software</th>
  </tr>
        <tr>
 <td>
